@@ -5,7 +5,7 @@ The term **Business Intelligence** refers to collectively to the tools nd techno
 # Data Visualization
 **Data Visualization** is pictorial representation of a given set of data.
 
-## Why Data Visualization
+**Why Data Visualization**
 
  - A text-based data is visualized graphically in the form of charts, graphs, tables, infographics and maps etc.
  - With the visualization, new insights and hidden patterns in data can be detected.
@@ -18,7 +18,9 @@ The term **Business Intelligence** refers to collectively to the tools nd techno
 
 
 ## Tableau Architecture 
+
 ![enter image description here](https://www.pngitem.com/pimgs/m/358-3586516_tableau-vs-qlikview-tableau-prep-architecture-hd-png.png)
+
 
 ### Features of tableau
  1. Flexibility 
